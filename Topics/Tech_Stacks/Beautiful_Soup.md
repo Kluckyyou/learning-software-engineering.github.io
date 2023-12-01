@@ -1,5 +1,4 @@
 # BeautifulSoup Guide in Python
-
 ## Table of Contents
 ### [Introduction](#introduction-1)
 ### [Installation](#installation-1)
@@ -12,7 +11,7 @@
 
 ## Introduction
 
-BeautifulSoup is a Python library for parsing HTML and XML documents. It creates parse trees from page source codes 
+Beautiful Soup is a Python library for parsing HTML and XML documents. It creates parse trees from page source codes 
 that can be used to extract data easily. This guide will cover the basics of using BeautifulSoup, along with examples 
 and best practices.
 
